@@ -1,0 +1,56 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F5F5F5;
+  color: #333;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(to right, #ff4081, #8e24aa);
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero-banner h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-banner p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+/* About Section */
+.about {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #eeeeee;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+}
